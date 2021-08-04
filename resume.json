@@ -6,7 +6,7 @@
 		"email": "ireshamaheshwari@gmail.com",
 		"phone": "",
 		"website": "https://ireshamaheshwari.github.io/",
-		"summary": "Hi! I'm pre-final year B.Tech student at Indian Institute of Information Technology,  Kota.",
+		"summary": "Hi! I'm pre-final year B.Tech student at IIIT, Kota with abiding interest in machine learning and data science fields .I'm always in a spirit to learn more :) ",
 		"location": {
 			"address": "1/128 - J, Vineet Khand, Gomti Nagar, Lucknow ",
 			"postalCode": "226010",
@@ -49,8 +49,8 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor",
-		"startDate": "2019-04-08 //Date",
-		"endDate": "----",
+		"startDate": "2019-04-08 ",
+		"endDate": "",
 		"gpa": "8.9",
 		"courses": [
 			"Electronics & Communication Engineering"
@@ -68,7 +68,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["Python","Matlab","HTML", "CSS", "C/C++", "Java"]
+		"keywords": ["Python","HTML", "CSS", "C/C++", "Java","Matlab" ]
 	}],
 	"interests": [{
 		"name": "Music",
