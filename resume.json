@@ -6,7 +6,7 @@
 		"email": "ireshamaheshwari@gmail.com",
 		"phone": "",
 		"website": "https://ireshamaheshwari.github.io/",
-		"summary": "Hi there ! I'm a pre-final year B.Tech student at IIIT, Kota with abiding interest in machine learning and data science fields .I'm always in a spirit to learn more :) ",
+		"summary": "Hi there ! I'm a pre-final year B.Tech student at IIIT, Kota with abiding interest in machine learning and data science fields .I'm consistent and always in a spirit to learn more :) ",
 		"location": {
 			"address": "1/128 - J, Vineet Khand, Gomti Nagar, Lucknow ",
 			"postalCode": "226010",
@@ -36,7 +36,16 @@
 			}
 		]
 	},
-	"volunteer": [{
+	"volunteer": [
+        {
+		"Organisation": " IIIT Kota ",
+		"position": " General Secretary,  Artive ",
+		"startDate": "2020-03-02",
+		"endDate": "",
+		"summary": " Fine Arts Club of IIIT, Kota",
+		"highlights": []
+	},
+        {
 		"Organisation": " IIIT Kota & Mathworks",
 		"position": "Student Volunteer ",
 		"startDate": "2021-03-02",
