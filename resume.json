@@ -37,11 +37,11 @@
 		]
 	},
 	"volunteer": [{
-		"Event": " MATLAB and It's Applications (AdMAT -21) ",
-		"position": " Volunteers ",
+		"Organisation": " IIIT Kota & Mathworks",
+		"position": "Student Volunteer ",
 		"startDate": "2021-03-02",
 		"endDate": "2021-07-02",
-		"summary": " It was a 5 day workshop organised by IIIT Kota in collaboration with MathWorks. ",
+		"summary": " AdMAT -21 ( Advanced MATLAB and It's Applications) was a 5 day workshop organised by IIIT Kota in collaboration with MathWorks ",
 		"highlights": []
 	}],
 	"education": [{
