@@ -6,7 +6,7 @@
 		"email": "ireshamaheshwari@gmail.com",
 		"phone": "",
 		"website": "https://ireshamaheshwari.github.io/",
-		"summary": "Hi! I'm pre-final year B.Tech student at IIIT, Kota with abiding interest in machine learning and data science fields .I'm always in a spirit to learn more :) ",
+		"summary": "Hi there ! I'm a pre-final year B.Tech student at IIIT, Kota with abiding interest in machine learning and data science fields .I'm always in a spirit to learn more :) ",
 		"location": {
 			"address": "1/128 - J, Vineet Khand, Gomti Nagar, Lucknow ",
 			"postalCode": "226010",
@@ -37,12 +37,11 @@
 		]
 	},
 	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
+		"Event": " MATLAB and It's Applications (AdMAT -21) ",
+		"position": " Volunteers ",
+		"startDate": "2021-03-02",
+		"endDate": "2021-07-02",
+		"summary": " It was a 5 day workshop organised by IIIT Kota in collaboration with MathWorks. ",
 		"highlights": []
 	}],
 	"education": [{
@@ -68,7 +67,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["Python","HTML", "CSS", "C/C++", "Java","Matlab" ]
+		"keywords": ["Python","HTML", "CSS", "C/C++", "Java", "Matlab" , "Leadership" ]
 	}],
 	"interests": [{
 		"name": "Music",
